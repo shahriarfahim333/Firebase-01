@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "135721665982",
+    "project_id": "fir-logandsign-2d369",
+    "storage_bucket": "fir-logandsign-2d369.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135721665982:android:4bd0a916419790043da5ef",
+        "android_client_info": {
+          "package_name": "com.example.firebaselogandsign"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXv9pQX1hriTGF4RIbHPx606fKWmk9hYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
